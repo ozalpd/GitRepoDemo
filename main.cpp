@@ -1,3 +1,5 @@
+#include "Warrior.h"
+
 int main() {
     // TODO: Add some code here
     
