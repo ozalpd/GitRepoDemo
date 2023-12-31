@@ -1,0 +1,29 @@
+// Prompt Sample 1
+Write a function that takes two integers as input and returns their sum.
+
+// Prompt Sample 2
+Create a class called "Person" with properties for name, age, and gender.
+
+// Prompt Sample 3
+Implement a sorting algorithm to sort an array of integers in ascending order.
+
+// Prompt Sample 4
+Design a database schema for a blog application with tables for users, posts, and comments.
+
+// Prompt Sample 5
+Write a program that reads a text file and counts the occurrences of each word.
+
+// Prompt Sample 6
+Create a web page with a form that allows users to submit their contact information.
+
+// Prompt Sample 7
+Implement a function that checks if a given string is a palindrome.
+
+// Prompt Sample 8
+Design a RESTful API for a social media platform with endpoints for creating, updating, and deleting posts.
+
+// Prompt Sample 9
+Write a recursive function to calculate the factorial of a given number.
+
+// Prompt Sample 10
+Create a mobile app that displays a list of products and allows users to add them to a shopping cart.
