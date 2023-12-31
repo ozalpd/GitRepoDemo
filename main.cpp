@@ -1,7 +1,7 @@
 #include "Warrior.h"
 #include "ai.h"
 
-int main() {
+int MainFunc() {
     // TODO: Add some code here
     
     return 0;
