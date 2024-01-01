@@ -1,0 +1,20 @@
+# FILEPATH
+
+# Documentation for the cherry-pick command in Git.
+#
+# The cherry-pick command is used to apply the changes of a specific commit onto the current branch.
+# It allows you to select a single commit from another branch and apply it to the current branch, 
+# effectively bringing the changes from that commit into your current branch's history.
+#
+# Usage: git cherry-pick <commit>
+#
+# Parameters:
+#   - <commit>: The commit hash or reference of the commit you want to cherry-pick.
+#
+# Example:
+#   git cherry-pick abc123
+#
+# This will apply the changes from the commit with hash "abc123" onto the current branch.
+#
+# Note: Cherry-picking a commit can result in conflicts if the changes in the commit conflict with 
+# the changes in the current branch. In such cases, manual resolution of conflicts is required.
